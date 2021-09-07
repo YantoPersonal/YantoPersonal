@@ -7,7 +7,7 @@ Big Data Analytics are fundamental to success in modern businesses. No longer do
 In recent times, I've been the lead lecturer on a number of MSc Courses, predominantly focused on Machine Learning Algorithms and Artificial Intelligence, and will be employed as a full-time Lecturer at the University of South Wales come December 2021. In the past I have volunteered as a teaching assistant at my comprehensive school, where my responsibilities involved one-to-one discussions with students, helping students revising old topics, boosting morale and even conducting my own catch-up lessons for absent students when needed.
 
 
-![alt text] https://github.com/YantoPersonal/GitImages/blob/main/paper_img.png
+![alt text](https://github.com/YantoPersonal/GitImages/blob/main/paper_img.png)
 
 I am also a keen musician, my self-taught mission started 7 years ago when I decided to pick up the drums. Since then I’ve been a part of bands, recorded my own music and performed on stage. I was an active member of the music society at university and met many of my friends today through our shared love of music.
 
