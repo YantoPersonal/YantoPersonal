@@ -14,6 +14,7 @@ I am also a keen musician, my self-taught mission started 7 years ago when I dec
 Any information regarding my publications can be found below, if you're unable to get access i'm happy to email an author's copy.
 ## Automated Condition Monitoring using Artificial Intelligence
 https://dl.acm.org/doi/abs/10.1145/3448823.3448863
+
 ![alt text](https://github.com/YantoPersonal/GitImages/blob/main/paper_img_2.png)
 <!---
 YantoPersonal/YantoPersonal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
